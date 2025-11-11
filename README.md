@@ -1,0 +1,1 @@
+![Python Tests](https://github.com/TELERI01/unittest-demo/actions/workflows/python-tests.yml/badge.svg)
